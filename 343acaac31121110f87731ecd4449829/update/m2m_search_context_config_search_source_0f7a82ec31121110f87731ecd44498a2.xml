@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <search_context_config display_value="TestDashboard-WS - Workspace Search">487a02ec2f12111057b2f4e8f5b061b2</search_context_config>
+        <source display_value="TestDashboard-WS - core_country">8b7a82ec31121110f87731ecd4449862</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 11:37:31</sys_created_on>
+        <sys_id>0f7a82ec31121110f87731ecd44498a2</sys_id>
+        <sys_name/>
+        <sys_package display_value="TestDashboard" source="x_snc_testdashbo_0">343acaac31121110f87731ecd4449829</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboard">343acaac31121110f87731ecd4449829</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_0f7a82ec31121110f87731ecd44498a2</sys_update_name>
+    </m2m_search_context_config_search_source>
+</record_update>

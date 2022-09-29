@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="TestDashboard-WS search profile">847a02ec5312111028f501f857a27ab3</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 11:37:24</sys_created_on>
+        <sys_id>807a02eca31211107e85425272da98b1</sys_id>
+        <sys_name>default_synonym_dictionary.TestDashboard-WS search profile</sys_name>
+        <sys_package display_value="TestDashboard" source="x_snc_testdashbo_0">343acaac31121110f87731ecd4449829</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboard">343acaac31121110f87731ecd4449829</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_807a02eca31211107e85425272da98b1</sys_update_name>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

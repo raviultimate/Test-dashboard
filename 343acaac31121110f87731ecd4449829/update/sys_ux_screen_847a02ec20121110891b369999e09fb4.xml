@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="TestDashboard-WS Config">407a02ec35121110594b0641488e73b4</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Search results">72e447ee0b621010a8b1c96237673a7e</macroponent>
+        <macroponent_config/>
+        <name>Search Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Search">847a02ecd7121110f7076cdf3a774eb2</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 11:37:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>847a02ec20121110891b369999e09fb4</sys_id>
+        <sys_name>Search Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TestDashboard" source="x_snc_testdashbo_0">343acaac31121110f87731ecd4449829</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboard">343acaac31121110f87731ecd4449829</sys_scope>
+        <sys_update_name>sys_ux_screen_847a02ec20121110891b369999e09fb4</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=847a02ec20121110891b369999e09fb4"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 11:37:24</sys_created_on>
+        <sys_id>807a02ec631211101e2c13fe057cb3b3</sys_id>
+        <sys_name/>
+        <sys_package display_value="TestDashboard" source="x_snc_testdashbo_0">343acaac31121110f87731ecd4449829</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboard">343acaac31121110f87731ecd4449829</sys_scope>
+        <sys_suggestion_reader_group_id display_value="User History Reader Group for Starter Workspace AI Search Configuration">c47a02ec6e121110e603d4cd3bbab4af</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="User History and Click Reader">f8495b9077210110be280d892c5a9986</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_807a02ec631211101e2c13fe057cb3b3</sys_update_name>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

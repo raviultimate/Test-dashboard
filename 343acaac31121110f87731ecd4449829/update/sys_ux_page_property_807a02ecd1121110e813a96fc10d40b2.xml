@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="TestDashboard-WS">8c7a02ec251211107152cc059fa609ad</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 11:37:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>807a02ecd1121110e813a96fc10d40b2</sys_id>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="TestDashboard" source="x_snc_testdashbo_0">343acaac31121110f87731ecd4449829</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboard">343acaac31121110f87731ecd4449829</sys_scope>
+        <sys_update_name>sys_ux_page_property_807a02ecd1121110e813a96fc10d40b2</sys_update_name>
+        <type>string</type>
+        <unique_name>x_snc_testdashbo_0.8c7a02ec251211107152cc059fa609ad.root.actionConfigId</unique_name>
+        <value>df28e3db0f1210107d20409dc4767ee0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=807a02ecd1121110e813a96fc10d40b2"/>
+</record_update>

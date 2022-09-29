@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="TestDashboard-WS AI Search Configuration">8c7a02ecae121110866a2a4f751d78ae</context_config_id>
+        <limit>5</limit>
+        <order>500</order>
+        <section_header>Recently viewed</section_header>
+        <suggestion_type>User History Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 11:37:23</sys_created_on>
+        <sys_id>c47a02ec6e121110e603d4cd3bbab4af</sys_id>
+        <sys_name>User History Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="TestDashboard" source="x_snc_testdashbo_0">343acaac31121110f87731ecd4449829</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboard">343acaac31121110f87731ecd4449829</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_c47a02ec6e121110e603d4cd3bbab4af</sys_update_name>
+    </sys_suggestion_reader_group>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Conflicts" section_id="ac8a06ec31121110f87731ecd4449883" sys_domain="global" table="change_request" version="3" view="Workspace-TestDashboard-WS-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change_request_conflict_progress.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-29 11:37:37</sys_created_on>
+            <sys_id>e48a06ec31121110f87731ecd4449885</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Conflict Checker Progress">f6764f93efa002008e4c36caa5c0fb67</sys_ui_formatter>
+            <sys_ui_section caption="Conflicts" display_value="Conflicts" name="change_request" sys_domain="global" view="8c7a02ecf9121110e6615b297bd197af">ac8a06ec31121110f87731ecd4449883</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-29 11:37:37</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.change_request.REL:ebef7dc8eff002008e4c36caa5c0fb45</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-29 11:37:37</sys_created_on>
+            <sys_id>688a06ec31121110f87731ecd4449885</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Conflicts" display_value="Conflicts" name="change_request" sys_domain="global" view="8c7a02ecf9121110e6615b297bd197af">ac8a06ec31121110f87731ecd4449883</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-29 11:37:37</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Conflicts</caption>
+            <header>false</header>
+            <name>change_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-29 11:37:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac8a06ec31121110f87731ecd4449883</sys_id>
+            <sys_name>change_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TestDashboard" source="x_snc_testdashbo_0">343acaac31121110f87731ecd4449829</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestDashboard">343acaac31121110f87731ecd4449829</sys_scope>
+            <sys_update_name>sys_ui_section_ac8a06ec31121110f87731ecd4449883</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace TestDashboard WS 0" name="Workspace-TestDashboard-WS-0">8c7a02ecf9121110e6615b297bd197af</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

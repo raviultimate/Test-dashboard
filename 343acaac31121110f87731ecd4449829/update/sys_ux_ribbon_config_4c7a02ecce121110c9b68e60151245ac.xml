@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>TestDashboard-WS Ribbon Config</description>
+        <name>TestDashboard-WS Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 11:37:23</sys_created_on>
+        <sys_id>4c7a02ecce121110c9b68e60151245ac</sys_id>
+        <sys_name>TestDashboard-WS Ribbon Config</sys_name>
+        <sys_package display_value="TestDashboard" source="x_snc_testdashbo_0">343acaac31121110f87731ecd4449829</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboard">343acaac31121110f87731ecd4449829</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_4c7a02ecce121110c9b68e60151245ac</sys_update_name>
+    </sys_ux_ribbon_config>
+</record_update>

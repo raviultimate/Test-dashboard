@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="TestDashboard-WS">8c7a02ec251211107152cc059fa609ad</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 11:37:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c47a02ec8812111039d0119fcc9f14b4</sys_id>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="TestDashboard" source="x_snc_testdashbo_0">343acaac31121110f87731ecd4449829</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboard">343acaac31121110f87731ecd4449829</sys_scope>
+        <sys_update_name>sys_ux_page_property_c47a02ec8812111039d0119fcc9f14b4</sys_update_name>
+        <type>string</type>
+        <unique_name>x_snc_testdashbo_0.8c7a02ec251211107152cc059fa609ad.root.wbApplicabilityConfigId</unique_name>
+        <value>4e7a42ec31121110f87731ecd44498a7</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c47a02ec8812111039d0119fcc9f14b4"/>
+</record_update>
